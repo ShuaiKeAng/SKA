@@ -1,0 +1,16 @@
+D:\new\帅慷科技有限公司源代码\newwork\tp\bin\Debug\tp.exe.config
+D:\new\帅慷科技有限公司源代码\newwork\tp\bin\Debug\tp.exe
+D:\new\帅慷科技有限公司源代码\newwork\tp\bin\Debug\tp.pdb
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.csprojAssemblyReference.cache
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.Form1.resources
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.Properties.Resources.resources
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.csproj.GenerateResource.cache
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.csproj.CoreCompileInputs.cache
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.exe
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.pdb
+D:\new\帅慷科技有限公司源代码\newwork\tp\bin\Debug\tp.exe.manifest
+D:\new\帅慷科技有限公司源代码\newwork\tp\bin\Debug\tp.application
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.exe.manifest
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.application
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.Form2.resources
+D:\new\帅慷科技有限公司源代码\newwork\tp\obj\Debug\tp.Form3.resources
